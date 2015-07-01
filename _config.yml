@@ -2,8 +2,8 @@
 title: unko
 email: unkosun@126.com
 description:  unko's blog
-baseurl: "unko" # the subpath of your site, e.g. /blog/
-url: "http://www.unko.cn" # the base hostname & protocol for your site 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site 
 github_username:  unkosun
 
 # Build settings
