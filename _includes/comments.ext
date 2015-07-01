@@ -1,5 +1,5 @@
 
-/***
+
 <div id="disqus_thread"></div>
  <script type="text/javascript">
      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -15,8 +15,8 @@
  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-***/
 
+/***
 <!-- 多说评论框 start -->
 	<div class="ds-thread" data-thread-key="{{ page.title }}" data-title="{{ page.title }}" data-url="{{site.title}}"></div>
 <!-- 多说评论框 end -->
@@ -33,3 +33,4 @@ var duoshuoQuery = {short_name:"{{site.disqusname}}"};
 	})();
 	</script>
 <!-- 多说公共JS代码 end -->
+***/
