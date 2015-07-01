@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: unko
-baseurl: unko
+baseurl: /unko
 markdown: redcarpet
 safe: false
 highlighter: pygments
