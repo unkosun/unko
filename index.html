@@ -4,8 +4,8 @@ layout: default
 title: 文章目录
 
 ---
-{% if site.theme == 'kunka'}
+{% if site.theme == 'kunka' %}
 	{% include {{site.theme}}_index.html %}
 {% else %}
-	{% include {{site.theme}}.html %}
+	{% include default_index.html %}
 {% endif %}
