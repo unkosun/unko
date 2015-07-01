@@ -2,7 +2,7 @@
 layout: post
 title: HelloWorld
 category: default
-comments: false
+comments: true
 
 ---
 
