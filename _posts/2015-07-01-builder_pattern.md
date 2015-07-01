@@ -2,7 +2,7 @@
 layout: post
 title: 【转载】Builder Pattern在Objective-C中的使用
 category: 设计模式
-comments: true
+comments: false
 
 ---
 
