@@ -108,7 +108,7 @@ customLinks:
     message: 其他相关链接
 
 #comment config
-ds:
+disqus:
   config: false
   id: unko
 
